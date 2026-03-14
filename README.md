@@ -1,6 +1,7 @@
 
 # 图像矫正与遥感影像配准
-Coworker@Pandora-xqq @Zihang Wang @Yingjian Zhao @Yutong Liu
+
+Coworker @[Pandora-xqq](https://github.com/Pandora-xqq) @Zihang Wang @Yingjian Zhao @Yutong Liu
 
 ## （1）运行环境
 - **版本**：代码在MATLAB 2022b和2024b以及其他部分版本上均可运行
